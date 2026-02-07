@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "category": "selected",
+  "source": "jiosaavn",
+  "updatedAt": "2026-02-07",
+  "sections": [
+    {
+      "id": "released",
+      "title": "Released",
+      "updateCycle": "weekly",
+      "updateDay": "friday",
+      "priority": 1,
+      "items": [
+        {
+          "type": "track",
+          "id": "9y78yhed",
+        }
+      ]
+    }
+  ]
+}
