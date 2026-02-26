@@ -1,3 +1,3 @@
 # rhythmax-feed
-Selected playlists of Rhythmax./n
+Selected playlists of Rhythmax.
 This is not implemented yet.
